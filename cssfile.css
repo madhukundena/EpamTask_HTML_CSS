@@ -7,8 +7,17 @@ card
   height: 550px;
   margin-left: 25cm;
   margin-top: 6cm;
+  
+   text-align: center; 
+   text-align: center; 
 }
-
+form 
+{
+    display: inline-block;
+    width: fit-content;
+    text-align: center;
+	margin-left:20px;
+}
 
 .card:hover 
 {
